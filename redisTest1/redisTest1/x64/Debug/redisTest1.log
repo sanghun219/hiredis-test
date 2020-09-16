@@ -1,0 +1,2 @@
+﻿  redisTest1.cpp
+C:\Users\User\source\repos\redis\redisTest1\redisTest1\RedisManager.h(7,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'hiredis.h': No such file or directory

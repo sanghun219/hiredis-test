@@ -1,0 +1,21 @@
+﻿  redisTest1.cpp
+C:\Users\User\source\repos\redisTest1\redis\hiredis-master\sds.h(53,15): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\User\source\repos\redisTest1\redis\hiredis-master\sds.h(53,15): message : 이 멤버는 기본값으로 설정된 생성자 또는 복사/이동 대입 연산자에서 무시됩니다.
+C:\Users\User\source\repos\redisTest1\redis\hiredis-master\sds.h(59,15): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\User\source\repos\redisTest1\redis\hiredis-master\sds.h(59,15): message : 이 멤버는 기본값으로 설정된 생성자 또는 복사/이동 대입 연산자에서 무시됩니다.
+C:\Users\User\source\repos\redisTest1\redis\hiredis-master\sds.h(65,15): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\User\source\repos\redisTest1\redis\hiredis-master\sds.h(65,15): message : 이 멤버는 기본값으로 설정된 생성자 또는 복사/이동 대입 연산자에서 무시됩니다.
+C:\Users\User\source\repos\redisTest1\redis\hiredis-master\sds.h(71,15): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\User\source\repos\redisTest1\redis\hiredis-master\sds.h(71,15): message : 이 멤버는 기본값으로 설정된 생성자 또는 복사/이동 대입 연산자에서 무시됩니다.
+C:\Users\User\source\repos\redisTest1\redis\hiredis-master\sds.h(77,15): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\User\source\repos\redisTest1\redis\hiredis-master\sds.h(77,15): message : 이 멤버는 기본값으로 설정된 생성자 또는 복사/이동 대입 연산자에서 무시됩니다.
+C:\Users\User\source\repos\redisTest1\redis\hiredis-master\sds.h(103,33): warning C4244: 'return': 'uint64_t'에서 'size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\redisTest1\redis\hiredis-master\sds.h(128,30): warning C4244: 'return': 'uint64_t'에서 'size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\redisTest1\redis\hiredis-master\sds.h(196,33): warning C4244: 'return': 'uint64_t'에서 'size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+redisTest1.obj : error LNK2019: _freeReplyObject_main 함수에서 참조되는 확인할 수 없는 외부 기호
+redisTest1.obj : error LNK2019: _redisConnectWithTimeout_main 함수에서 참조되는 확인할 수 없는 외부 기호
+redisTest1.obj : error LNK2019: _redisConnectUnixWithTimeout_main 함수에서 참조되는 확인할 수 없는 외부 기호
+redisTest1.obj : error LNK2019: _redisFree_main 함수에서 참조되는 확인할 수 없는 외부 기호
+redisTest1.obj : error LNK2019: _redisCommand_main 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\User\source\repos\redisTest1\lib\hiredis.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\User\source\repos\redisTest1\Debug\redisTest1.exe : fatal error LNK1120: 5개의 확인할 수 없는 외부 참조입니다.

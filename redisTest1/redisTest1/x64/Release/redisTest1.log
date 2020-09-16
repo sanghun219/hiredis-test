@@ -1,0 +1,17 @@
+﻿  redisTest1.cpp
+C:\Users\User\source\repos\redis\redisTest1\redis\hiredis-master\sds.h(53,15): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\User\source\repos\redis\redisTest1\redis\hiredis-master\sds.h(53,15): message : 이 멤버는 기본값으로 설정된 생성자 또는 복사/이동 대입 연산자에서 무시됩니다.
+C:\Users\User\source\repos\redis\redisTest1\redis\hiredis-master\sds.h(59,15): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\User\source\repos\redis\redisTest1\redis\hiredis-master\sds.h(59,15): message : 이 멤버는 기본값으로 설정된 생성자 또는 복사/이동 대입 연산자에서 무시됩니다.
+C:\Users\User\source\repos\redis\redisTest1\redis\hiredis-master\sds.h(65,15): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\User\source\repos\redis\redisTest1\redis\hiredis-master\sds.h(65,15): message : 이 멤버는 기본값으로 설정된 생성자 또는 복사/이동 대입 연산자에서 무시됩니다.
+C:\Users\User\source\repos\redis\redisTest1\redis\hiredis-master\sds.h(71,15): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\User\source\repos\redis\redisTest1\redis\hiredis-master\sds.h(71,15): message : 이 멤버는 기본값으로 설정된 생성자 또는 복사/이동 대입 연산자에서 무시됩니다.
+C:\Users\User\source\repos\redis\redisTest1\redis\hiredis-master\sds.h(77,15): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\User\source\repos\redis\redisTest1\redis\hiredis-master\sds.h(77,15): message : 이 멤버는 기본값으로 설정된 생성자 또는 복사/이동 대입 연산자에서 무시됩니다.
+  코드를 생성하고 있습니다.
+  24 of 24 functions (100.0%) were compiled.
+    20 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  redisTest1.vcxproj -> C:\Users\User\source\repos\redis\redisTest1\x64\Release\redisTest1.exe
